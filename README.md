@@ -1,5 +1,3 @@
-# speech-enhancement-IITGN
-
 # PROJECT TITLE:
 ## Noise Reduction in speech using Recurrent Neural Networks 
 ### Noise Description 
