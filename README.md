@@ -13,4 +13,4 @@ Testing set containts pink noise and noisy wind samples from IKS-Wind Dataset ad
 
 ## Results
 -- Inside results folder( .wav )
-![](./images/Screenshot from 2020-03-17 12-39-44.png)
+![](./images/PESQ_IMG.png)
